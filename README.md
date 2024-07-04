@@ -22,5 +22,3 @@ Você se destaca pela dinamismo, gostando de aprender e ajustar durante o proces
 ![octo](octocat-1688068416031.png)
 
 ![octmrf](octmrf.png)
-
-![octmrf](https://github.com/Mr-Felix25/Mr-Felix25/assets/136932259/9e285824-550a-42ea-8f15-c7f0966519c8)
