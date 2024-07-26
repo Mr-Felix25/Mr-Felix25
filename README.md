@@ -10,7 +10,7 @@
 <p>
   Missão Programador
 Olha só o que podemos afirmar sobre você...
-Você se destaca pela dinamismo, gostando de aprender e ajustar durante o processo. Independência define sua abordagem para resolver problemas, confiando nas suas habilidades de pesquisa. Detalhista, você dá muita importância à aparência e à experiência do usuário. Curiosidade é uma marca sua, sempre em busca de novas ferramentas e técnicas. Independência é uma preferência sua, gostando de ter controle total sobre seus projetos.</p>
+Você se destaca pela dinamismo, gostando de aprender e ajustar durante o processo. **Independência** define sua abordagem para resolver problemas, confiando nas suas habilidades de pesquisa. Detalhista, você dá muita importância à aparência e à experiência do usuário. Curiosidade é uma marca sua, sempre em busca de novas ferramentas e técnicas. Independência é uma preferência sua, gostando de ter controle total sobre seus projetos.</p>
 
 ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
