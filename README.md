@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Mr Felix</h1>
+<h1 align="center">Hi Thee people!👋</h1>
+<h1 align="center">I'm Mr. Felix</h1>
 <h3 align="center">I'm a very curious student.</h3>
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me: *Mr-Felix25* 📫
 <p align="left">
 </p>
 
