@@ -1,3 +1,58 @@
+# 👋 Olá, eu sou o Marcos!
+
+🎓 Professor por vocação, programador por diversão e eterno curioso por natureza.  
+📚 Apaixonado por ensinar, aprender e transformar código em conhecimento.
+
+---
+
+## 👨‍🏫 Sobre mim
+
+- 💼 Atuo como professor, ajudando mentes brilhantes a desbravar o mundo da tecnologia.
+- 🧠 Curioso por novas linguagens, metodologias e aquele bug que "não devia estar acontecendo".
+- 🎯 Buscando sempre unir teoria, prática e um pouquinho de humor na sala de aula (e nos commits).
+- ☕️ Sobrevivo a base de café e boas ideias.
+
+---
+
+## 💻 Tecnologias que uso com frequência
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+*E claro, o eterno amor por um bom `print("Olá, mundo!")`.*
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosprof&show_icons=true&theme=default&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosprof&layout=compact&langs_count=7&theme=default"/>
+</div>
+
+---
+
+## 🤝 Vamos conectar?
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil)
+- 🌐 [Meu site/página institucional](https://www.seusite.com)
+- 🐦 [Twitter (X)](https://twitter.com/seuuser)
+- 📫 Me envie um e-mail: seu.email@exemplo.com
+
+---
+
+
+
+
+
+
+
+
+
+
+
 <h1 align="center">Hi There people!👋</h1>
 <h1 align="center">I'm Mr. Felix</h1>
 <h3 align="center">I'm a very curious student.</h3>
